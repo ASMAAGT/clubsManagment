@@ -1,6 +1,6 @@
 package com.tp7.clubsmanagement.Controllers;
 
-import Models.Classroom;
+import com.tp7.clubsmanagement.Models.Classroom;
 import com.tp7.clubsmanagement.Services.ClassroomService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

@@ -1,6 +1,6 @@
 package com.tp7.clubsmanagement.Services;
 
-import Models.Classroom;
+import com.tp7.clubsmanagement.Models.Classroom;
 import com.tp7.clubsmanagement.Repositories.ClassroomRepository;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;

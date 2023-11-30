@@ -1,8 +1,7 @@
 package com.tp7.clubsmanagement.Services;
 
 
-import Models.Classroom;
-import Models.Student;
+import com.tp7.clubsmanagement.Models.Student;
 import com.tp7.clubsmanagement.Repositories.StudentsRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

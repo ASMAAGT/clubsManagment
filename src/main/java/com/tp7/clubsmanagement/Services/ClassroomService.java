@@ -1,6 +1,6 @@
 package com.tp7.clubsmanagement.Services;
 
-import Models.Classroom;
+import com.tp7.clubsmanagement.Models.Classroom;
 
 import java.util.List;
 

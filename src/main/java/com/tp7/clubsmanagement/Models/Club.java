@@ -1,4 +1,4 @@
-package Models;
+package com.tp7.clubsmanagement.Models;
 
 import jakarta.persistence.*;
 

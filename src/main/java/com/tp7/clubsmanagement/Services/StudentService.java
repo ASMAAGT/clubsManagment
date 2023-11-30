@@ -1,6 +1,6 @@
 package com.tp7.clubsmanagement.Services;
 
-import Models.Student;
+import com.tp7.clubsmanagement.Models.Student;
 
 public interface StudentService {
     Student saveStudent (Student student);

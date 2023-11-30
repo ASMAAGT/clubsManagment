@@ -1,4 +1,4 @@
-package Models;
+package com.tp7.clubsmanagement.Models;
 import com.fasterxml.jackson.annotation.*;
 import jakarta.persistence.*;
 

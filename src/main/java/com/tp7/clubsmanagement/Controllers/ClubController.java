@@ -1,6 +1,6 @@
 package com.tp7.clubsmanagement.Controllers;
 
-import Models.Club;
+import com.tp7.clubsmanagement.Models.Club;
 import com.tp7.clubsmanagement.Services.ClubService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

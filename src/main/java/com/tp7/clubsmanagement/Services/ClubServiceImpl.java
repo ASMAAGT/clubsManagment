@@ -1,6 +1,6 @@
 package com.tp7.clubsmanagement.Services;
 
-import Models.Club;
+import com.tp7.clubsmanagement.Models.Club;
 import com.tp7.clubsmanagement.Repositories.ClubRepository;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;

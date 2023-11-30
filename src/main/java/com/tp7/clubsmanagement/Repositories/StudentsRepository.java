@@ -1,9 +1,7 @@
 package com.tp7.clubsmanagement.Repositories;
 
-import Models.Student;
+import com.tp7.clubsmanagement.Models.Student;
 import org.springframework.data.repository.CrudRepository;
-
-import java.util.List;
 
 public interface StudentsRepository extends CrudRepository<Student,Integer> {
 
